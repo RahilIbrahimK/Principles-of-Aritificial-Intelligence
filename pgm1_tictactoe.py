@@ -1,6 +1,6 @@
 board = [" " for _ in range(9)]
 
-def print_board():
+def print_board():    
     print("-------------")
     for i in range(3):
         print("|", board[i*3], "|", board[i*3+1], "|", board[i*3+2], "|")
