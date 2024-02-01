@@ -13,9 +13,15 @@ def check_win(player):
             return True
     return False
 
+#def current_player():
+#    return "X" if board.count("X") == board.count("O") else "O"
+
+
 def check_tie():
     return " " not in board
-
+    #return current_player() 
+    reset_game()
+    
 def reset_game():
     global board
     board = [" " for _ in range(9)]
