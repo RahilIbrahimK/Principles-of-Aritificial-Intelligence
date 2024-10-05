@@ -1,1 +1,1 @@
-This GitHub repository contains a collection of lab programs written for the "Principles of Artificial Intelligence" course. These programs serve as practical implementations and exercises to reinforce the theoretical concepts covered in the course.
+this GitHub repository contains a collection of lab programs written for the "Principles of Artificial Intelligence" course. These programs serve as practical implementations and exercises to reinforce the theoretical concepts covered in the course.
